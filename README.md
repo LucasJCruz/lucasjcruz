@@ -2,35 +2,34 @@
 
 My name is Lucas, aka Lukao. I'm 15 years old from São Paulo, Brazil.
 
-### My social networks ✨
+***My social networks ✨***
 
-● Discord - Lukao#2798
-● Twitter - @LukaoBR1
-● Email - lukaosrc@gmail.com
-● Website - Not working 😓
+- Discord - Lukao#2798
+- Twitter - @LukaoBR1
+- Email - lukaosrc@gmail.com
+- Website - Not working 😓
 
-### Languages I currently use in my projects 🔥
+***Languages I currently use in my projects 🔥***
 
-● JavaScript (My favority ❤️)
-● Lua
-● Html and CSS
+- JavaScript (My favority ❤️)
+- Lua
+- Html and CSS
 
-### My favorite games these days 🎮
+***My favorite games these days 🎮***
 
-● CS:GO
-● Valorant
-● ETS 2
-● GTA:SA (or MTA)
-● GTA V
-● Roblox (I don't play much)
-● Free Fire
+- CS:GO
+- Valorant
+- ETS 2
+- GTA:SA (or MTA)
+- GTA V
+- Roblox (I don't play much)
+- Free Fire
+***My current projects 🔨***
 
-### My current projects 🔨
+- My store and website ❤️
+- MTA:SA server ❤️
 
-● My store and website ❤️
-● MTA:SA server ❤️
-
-### Do I date? 👀
+***Do I date? 👀***
 
 Currently, there is noCurrentlyI didn't assume I'm in a serious relationship. But I can say that "yes"
 <!--
