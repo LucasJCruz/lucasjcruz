@@ -24,6 +24,7 @@ My name is Lucas, aka Lukao. I'm 15 years old from São Paulo, Brazil.
 - GTA V
 - Roblox (I don't play much)
 - Free Fire
+
 ***My current projects 🔨***
 
 - My store and website ❤️
