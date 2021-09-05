@@ -1,21 +1,16 @@
-### Aoba 🙊
+# Olá! 
 
-Meu nome é Lucas, deixarei algumas informações minhas abaixo caso queira me conhecer mais
-
-
-- Discord - Lukao#2798
-- Twitter - @LukaoBR1
-- Email - lukaosrc@gmail.com
-- Website - num fiz ainda kek 😓
-
-<!--
-**LukaoBR/LukaoBR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Deixarei algumas informações sobre minha conta no github.
+### Caso queira saber informações sobre mim. Acesse a outras redes sociais!
+ <div>
+  <a href="https://github.com/lucasjcruz">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasjcruz&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasjcruz&layout=compact&langs_count=7&theme=react"/>
+</div>
+<div style="display: inline_block"><br>
+  <img href="https://www.javascript.com/" align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img href="https://reactjs.org/" align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img href="https://www.lua.org/" align="center" alt="LUA" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg">
+</div>
