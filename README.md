@@ -36,6 +36,6 @@ Eu sou o Lucas, mas pode me chamar de Lukao, irei falar sobre mim e meu perfil n
   
  <div>
   <a href="https://github.com/lucasjcruz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasjcruz&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasjcruz&theme=gotham&include_all_commits=true&count_private=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasjcruz&layout=compact&langs_count=5&theme=gotham"/>
 </div>
