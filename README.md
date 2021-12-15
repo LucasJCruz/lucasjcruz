@@ -8,7 +8,7 @@ Eu sou o Lucas, mas pode me chamar de Lukao, irei falar sobre mim e meu perfil n
 - Pretendo estudar e me formar na escola, assim eu terei um tempo para minhas escolhas;
 - Ser policial, se caso isso não rolar. Entro mais a fundo em programação
 
-<h2> Informações da minha conta </h2>
+<h2> Meu dia a dia </h2>
 
 **Linguagens e aplicações em que eu utilizo:**
 
