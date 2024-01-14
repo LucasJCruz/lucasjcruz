@@ -1,13 +1,5 @@
 # Olá! 👋 ![](https://komarev.com/ghpvc/?username=lucasjcruz&color=006bed)
 
-Eu sou o Lucas, mas pode me chamar de Lukao, irei falar sobre mim e meu perfil no github. Espero que curta!
-
-<h2> 🙂&nbsp; Os meus planejamentos e futuro planejamentos </h2>
-
-- Sempre procurando novas tecnologias para eu utilizar em meus projetos;
-- Pretendo estudar e me formar na escola, assim eu terei um tempo para minhas escolhas;
-- Ser policial, se caso isso não rolar. Entro mais a fundo em programação
-
 <h2> Meu dia a dia </h2>
 
 **Linguagens e aplicações em que eu utilizo:**
