@@ -1,6 +1,5 @@
 # Olá! 👋 ![](https://komarev.com/ghpvc/?username=lucasjcruz&color=006bed)
 
-<h2> Meu dia a dia </h2>
 
 **Linguagens e aplicações em que eu utilizo:**
 
